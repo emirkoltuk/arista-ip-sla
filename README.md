@@ -37,8 +37,8 @@ FailureThreshold=5       # consecutive ping fails before marking DOWN
 SuccessThreshold=2       # consecutive successes before marking UP
 
 # Destination IPs
-SITE1_DEST_IP="192.0.2.10"     # Example IP (RFC5737)
-SITE2_DEST_IP="198.51.100.20"  # Example IP (RFC5737)
+SITE1_DEST_IP="192.0.2.10"    
+SITE2_DEST_IP="198.51.100.20"
 
 # Interface and next-hops
 INTERFACE="ethX"               # Interface used for ping
