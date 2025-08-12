@@ -10,8 +10,8 @@ SuccessThreshold=2       # art arda başarılı ping -> UP
 #############################################
 # HEDEF IP’LER (reachability test)
 #############################################
-SITE1_DEST_IP="192.0.2.10"     # Örnek IP (RFC5737)
-SITE2_DEST_IP="198.51.100.20"  # Örnek IP (RFC5737)
+SITE1_DEST_IP="192.0.2.10"     
+SITE2_DEST_IP="198.51.100.20" 
 
 #############################################
 # ARAYÜZ ve NEXT-HOP’LAR
